@@ -4,7 +4,7 @@
   the repository as shambhaviparashar/shambhaviparashar.
 -->
 
-# Hello, I'm Shambhavi Parashar 👋
+# Hello, I'm Shambhavi Parashar
 
 I am a **Back-End Software Engineer** with 3+ years of experience building secure, scalable payment solutions that meet the rigorous demands of financial systems. Currently, I'm pursuing a Master of Science in Computer Science at NJIT while engineering systems that are as dependable as your most trusted financial institution.
 
@@ -14,11 +14,11 @@ With expertise in .NET, RabbitMQ, SQL, and microservices architectures, I design
 
 ## About Me
 
-- 🔍 **Specialties**: Payment processing, PCI-DSS compliance, system scalability, and secure back-end engineering.
-- 💡 **Philosophy**: Just as banks rely on precision and trust, I believe simplicity in design leads to robust solutions. (After all, if your code were any more complicated, it might need its own audit!)
-- ⚙️ **Technical Toolkit**: .NET (C#), Python, SQL, Go, Java, JavaScript, RabbitMQ, Docker, AWS, and more.
+- **Specialties**: Payment processing, PCI-DSS compliance, system scalability, and secure back-end engineering.
+- **Philosophy**: Just as banks rely on precision and trust, I believe simplicity in design leads to robust solutions. (After all, if your code were any more complicated, it might need its own audit!)
+- **Technical Toolkit**: .NET (C#), Python, SQL, Go, Java, JavaScript, RabbitMQ, Docker, AWS, and more.
 
-For further details on my background and projects, please refer to my [resume](https://shambhaviparashar.me).
+For further details on my background and projects, please refer to my [portfolio](https://shambhaviparashar.me).
 
 ---
 
